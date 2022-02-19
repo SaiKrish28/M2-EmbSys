@@ -1,0 +1,35 @@
+EXPLANATION OF BLOCK DIAGRAM:
+
+1) POWER SUPPLY
+               It involves transformers, capacitors and regulators
+               
+2) TRAFFIC MOVEMENT FEEDBACK
+               It is necessary to sense on which side of the road the traffic is heavy
+               
+3) MICROCONTROLLER UNIT
+               It takes the information from the feedback section, determines the time for each lane, controls the lane
+               
+4) TIME DISPLAY
+               This display unit is connected to the microcontroller for the purpose of time display
+               
+5) TRAFFIC LIGHT
+                It displays colours red, yellow and green to indicate stop, ready and go respectively. These colours are driven by the microcontroller
+                
+6) DRIVER
+                It determines what the microcontroller must do, like sensing and analysing the feedbacks,controlling the traffic light etc.
+                
+                
+                
+                
+
+
+
+
+
+
+
+
+
+
+NOTE: 
+TOOK REFERENCE OF BLOCK DIAGRAM from INT'L Journal of research and technology(IJRT)
