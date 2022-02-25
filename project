@@ -1,1 +1,14 @@
 ##ROTARY ENCODER
+
+#DESCRIPTION
+
+            Rotary encoder is used to know the position of movement and angular movement of a motor or axis. It’s a three terminal device usually,
+            with power and ground pin counts to five.
+
+The pins of a rotary encoder are:
+
+Ground.
+Positive connected to +5V
+Output signal A pin
+Output signal B pin
+Clock pin or common pin.
