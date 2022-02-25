@@ -8,7 +8,7 @@
 | HLR2 | Serial Bus Systems(SSI,BiSS)
 | HLR3 | Modbus
 | HLR4 | Electromech anical actuator
-| HLR5 | Rotary Encoder Sensor
+| HLR5 | Rotary Encoder Sensor 
 | HLR6 | Temperature sensor 
 
 ## Low Level Requirements
@@ -19,3 +19,19 @@
 | LLR2 | Rotary encoders are required in warehouse distribution systems, baggage handling etc.
 | LLR3 | Should determine the angular position of a rotating shaft
 
+
+
+## Applications
+
+Rotary encoders are incredibly diverse and are used across many different industries. Some industries which they are used within regularly are;
+
+>> Packaging
+>> Food and beverage
+>> Printing
+>> Textiles
+>> Mobile vehicle
+>> Aerospace
+>> Material Handling
+>> Robotics
+>> Lift Industry
+>> Automation
