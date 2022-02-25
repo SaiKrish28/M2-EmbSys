@@ -13,6 +13,7 @@ Output signal A pin
 Output signal B pin
 Clock pin or common pin.
 
+
 #[1] How much resolution is needed?
 
 Select the optimal model in view of required precision and cost of machine equipment.
