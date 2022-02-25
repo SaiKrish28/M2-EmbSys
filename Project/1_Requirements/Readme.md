@@ -34,7 +34,7 @@ Rotary encoders are incredibly diverse and are used across many different indust
 >> Aerospace
 >> Material Handling
 >> Robotics
->> Lift Industry
+>> Lift Industry.
 >> Automation
 © 2022 GitHub, Inc.
 Terms
