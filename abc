@@ -1,0 +1,14 @@
+## HIGH LEVEL REQUIREMENTS
+| ID | Description | Status | 
+| ----- | ----- | --------- |
+|HLR_1|Fully Automated|Future|
+|HLR_2|Sensors And Atmega328|Implemented|
+|HLR_3|Alarm Interfaced with atmega328|Future|
+
+## LOW LEVEL REQUIREMENTS
+
+|ID|DESCRIPTION|STATUS|
+|---|---|---|
+|LLR_1|LEDs Interfaced with atmega|Implemented|
+|LLR_2|Resistors|Implemented|
+|LLR_3|Cameras|Implemented|
