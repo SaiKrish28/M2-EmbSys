@@ -7,7 +7,7 @@
 | HL1 | Analog signals(current or voltage)
 | HL2 | Serial Bus Systems(SSI,BiSS)
 | HL3 | Modbus
-| HL4 | Electromech anical actuator
+| HL4 | Electromechanical actuator
 | HL5 | Rotary Encoder Sensor 
 | HL6 | Temperature sensor 
 
