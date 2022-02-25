@@ -1,14 +1,21 @@
-##REQUIREMENTS
+## REQUIREMENTS
 
-#HIGH LEVEL REQUIREMENTS
- _______________________________________
-|
-|
-|
-|
-|
-|
-|
-|
-|
+## High Level Requirements
+
+|ID| Description
+|--|--|
+| HLR1 | Analog signals(current or voltage)
+| HLR2 | Serial Bus Systems(SSI,BiSS)
+| HLR3 | Modbus
+| HLR4 | Electromech anical actuator
+| HLR5 | Rotary Encoder Sensor
+| HLR6 | Temperature sensor
+
+## Low Level Requirements
+ 
+|ID| Description
+|--|--|
+| LLR1 | The Encoders must control the speed of conveyer belt
+| LLR2 | Rotary encoders are required in warehouse distribution systems, baggage handling etc.
+| LLR3 | Should determine the angular position of a rotating shaft
 
