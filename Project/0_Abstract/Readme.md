@@ -7,11 +7,11 @@
 
 The pins of a rotary encoder are:
 
-Ground.
-Positive connected to +5V
-Output signal A pin
-Output signal B pin
-Clock pin or common pin.
+#Ground.
+#Positive connected to +5V
+#Output signal A pin
+#Output signal B pin
+#Clock pin or common pin.
 
 
 #[1] How much resolution is needed?
