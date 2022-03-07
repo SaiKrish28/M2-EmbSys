@@ -9,6 +9,6 @@ This is used to control the temperature inside a vehicle. Whenever the user sits
 
 The working is demonstrated using a simuation software called SimulIDE.
 
-> When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
-> Then the analog input from the temperature sensor is received and digitized using ADC.
+> When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.  
+> Then the analog input from the temperature sensor is received and digitized using ADC.  
 > The digitized temperature input is visualized using Pulse Width Modulation.
