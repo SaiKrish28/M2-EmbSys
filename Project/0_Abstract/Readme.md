@@ -1,23 +1,14 @@
-##ROTARY ENCODER INTERFACING WITH ATMEGA8 MICROCONTROLLER
+## Seat Temperature control automation
 
-#DESCRIPTION
+## Description
 
-            Rotary encoder is used to know the position of movement and angular movement of a motor or axis. It’s a three terminal device usually,
-            with power and ground pin counts to five.
-
-The pins of a rotary encoder are:
-
-#Ground.
-#Positive connected to +5V
-#Output signal A pin
-#Output signal B pin
-#Clock pin or common pin.
+This is used to control the temperature inside a vehicle. Whenever the user sits inside the car, the sensor gets activated. After that, the user gets access to turn on the heater. Temperature will be monitored by the temperature sensor and tha analog value will be sent to microcontroller,Atmega328
 
 
-#[1] How much resolution is needed?
+## Working
 
-Select the optimal model in view of required precision and cost of machine equipment.
-We recommend selecting a resolution of from 1/2 to 1/4 of the precision of the machine with which the Encoder will be used
+The working is demonstrated using a simuation software called SimulIDE.
 
-#[2] Dimensions
-Take into consideration the type of shaft that is required (hollow shaft or regular shaft) in relation to mounting space.
+> When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
+> Then the analog input from the temperature sensor is received and digitized using ADC.
+> The digitized temperature input is visualized using Pulse Width Modulation.
