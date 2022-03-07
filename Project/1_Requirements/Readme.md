@@ -8,7 +8,8 @@
 | HL2 | Heater
 | HL3 | Atmega Microcontroller
 | HL4 | Thermostatic actuator
-| HL6 | Temperature sensor 
+| HL6 | Temperature sensor  
+| HL7 | Potentiometer  
 
 
 ## Low Level Requirements
