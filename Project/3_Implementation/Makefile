@@ -1,5 +1,5 @@
 #Main application file name
-MAIN_APP = LedBlink
+MAIN_APP = Seat temperature control
 #Main hex file path in windows format
 MAIN_HEX_PATH = Write the full directory path for the hex file\$(MAIN_APP).hex
 
