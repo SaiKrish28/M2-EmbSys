@@ -10,6 +10,7 @@
 | HL4 | Thermostatic actuator
 | HL6 | Temperature sensor  
 | HL7 | Potentiometer  
+| HL8 | Probes  
 
 
 ## Low Level Requirements
