@@ -1,7 +1,7 @@
 ## TEST PLAN
 
 | TEST ID | DESCRIPTION | EXP I/P | EXP O/P | TEST PASS/FAIL |
-| -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- |  
 | TP1 | STEP 1 | Both Switches ON | Read ADC Value | PASS |
 | TP2 | STEP 2 | Both Switches OFF | NO OUTPUT | PASS |
 | TP3 | ADC Value | 23 | 20 degree Celsius | PASS |
